@@ -1,0 +1,76 @@
+✅ Diagram 1: Basic Singly Linked List Structure
+
+Singly Linked List (Python)
+│
+├── 1. Introduction
+│   ├── What is a Linked List?
+│   ├── Advantages vs Arrays
+│   ├── Node Structure (data + next)
+│   └── Head Pointer
+│
+├── 2. Creating a Linked List
+│   ├── Class Node
+│   ├── Class LinkedList
+│   └── Initializing head
+│
+├── 3. Traversal
+│   ├── Print all nodes
+│   ├── Count nodes while traversing
+│   └── Detect empty list
+
+
+✅ Diagram 2: Insertion & Deletion Operations
+
+Singly Linked List Operations
+│
+├── 1. Insertion
+│   ├── At Beginning
+│   ├── At End
+│   ├── At Specific Position (Middle)
+│   └── After a Given Node
+│
+├── 2. Deletion
+│   ├── At Beginning
+│   ├── At End
+│   ├── At Specific Position (Middle)
+│   └── Delete by Value
+│
+├── 3. Searching
+│   ├── Search by Value
+│   └── Return Node Position
+│
+├── 4. Counting Nodes
+│   ├── Iterative Counting
+│   └── Recursive Counting
+
+
+✅ Diagram 3: Advanced Operations
+
+Singly Linked List Advanced
+│
+├── 1. Reversing Linked List
+│   ├── Iterative Method
+│   └── Recursive Method
+│
+├── 2. Detecting Loops
+│   ├── Floyd’s Cycle Detection
+│   └── Breaking Loops
+│
+├── 3. Merging Linked Lists
+│   ├── Merge Two Sorted Lists
+│   └── Merge at End
+│
+├── 4. Sorting Linked List
+│   ├── Bubble Sort
+│   └── Insertion Sort
+│
+├── 5. Advanced Searching
+│   ├── Middle Node
+│   ├── N-th Node from End
+│   └── Value Occurrences
+│
+└── 6. Applications
+    ├── Stack using Linked List
+    ├── Queue using Linked List
+    └── Polynomial Representation
+
