@@ -1,0 +1,58 @@
+Linear Data Structures
+│
+├── 1. Arrays / Lists
+│   ├── Definition & Characteristics
+│   ├── Creation in Python
+│   ├── Traversal
+│   ├── Insertion (Beginning, Middle, End)
+│   ├── Deletion (Beginning, Middle, End)
+│   ├── Searching (Linear, Binary)
+│   └── Applications
+│
+├── 2. Linked Lists
+│   ├── Types
+│   │   ├── Singly Linked List
+│   │   ├── Doubly Linked List
+│   │   └── Circular Linked List
+│   ├── Node Structure
+│   ├── Creation & Traversal
+│   ├── Insertion (Beginning, Middle, End)
+│   ├── Deletion (Beginning, Middle, End)
+│   ├── Searching
+│   ├── Reversing
+│   └── Applications
+│
+├── 3. Stack
+│   ├── Definition & Characteristics (LIFO)
+│   ├── Implementation
+│   │   ├── Using List
+│   │   └── Using Linked List
+│   ├── Operations
+│   │   ├── Push
+│   │   ├── Pop
+│   │   ├── Peek / Top
+│   │   └── IsEmpty
+│   └── Applications
+│
+├── 4. Queue
+│   ├── Definition & Characteristics (FIFO)
+│   ├── Types
+│   │   ├── Simple Queue
+│   │   ├── Circular Queue
+│   │   ├── Priority Queue
+│   │   └── Deque (Double Ended Queue)
+│   ├── Implementation
+│   │   ├── Using List
+│   │   └── Using Linked List
+│   ├── Operations
+│   │   ├── Enqueue
+│   │   ├── Dequeue
+│   │   ├── Front / Rear
+│   │   └── IsEmpty
+│   └── Applications
+│
+└── 5. Strings (considered linear in memory)
+    ├── Definition & Characteristics
+    ├── Traversal
+    ├── Operations (Concatenation, Slicing, Searching)
+    └── Applications
